@@ -1,5 +1,6 @@
 #created the python file 
 
+import snowflake.connector
 import streamlit
 import pandas
 import requests
